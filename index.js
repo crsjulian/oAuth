@@ -1,7 +1,7 @@
 // Configuration
 const client_secret = ''
 const client_id = ''
-const redirect_uri = ''
+const redirect_uri = 'https://verification-dc.herokuapp.com/'
 const webhook_url = ''
 // Config end
 const axios = require('axios')
